@@ -186,6 +186,6 @@ Es un complemento a la plataforma mediante la conversión de los datos de la ges
 
 
 # [Mi avance (Salesforce)](http://https://trailblazer.me/id/jgarcia643  "Mi avance (Salesorce)")
-[![salesforce](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.muycanal.com%2F2019%2F04%2F25%2Fel-origen-de-un-gigante-salesforce&psig=AOvVaw1ssI9EbiEa_rH9cHsdv-1D&ust=1645550862036000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIi9muiokfYCFQAAAAAdAAAAABAD "salesforce")](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.muycanal.com%2F2019%2F04%2F25%2Fel-origen-de-un-gigante-salesforce&psig=AOvVaw1ssI9EbiEa_rH9cHsdv-1D&ust=1645550862036000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIi9muiokfYCFQAAAAAdAAAAABAD "salesforce")
+
 
 
