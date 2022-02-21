@@ -185,7 +185,5 @@ Es un complemento a la plataforma mediante la conversión de los datos de la ges
 
 
 
-# [Mi avance (Salesforce)](http://https://trailblazer.me/id/jgarcia643  "Mi avance (Salesorce)")
-
-
+[Mi avance (Salesforce)](https://trailblazer.me/id/jgarcia643 "Mi avance (Salesforce)")
 
